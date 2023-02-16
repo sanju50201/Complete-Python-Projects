@@ -1,6 +1,7 @@
 # Tic Tac Toe AI using Minimax Algorithm
 
 import random
+import time
 
 
 class TicTacToe:
@@ -134,11 +135,8 @@ def play(game, x_player, o_player, print_game=True):
                 if print_game:
                     print(letter + " wins!")
                 return letter
-
             letter = "O" if letter == "X" else "X"
-
-        else:
-            print("Invalid move. Try again.")
+        time.sleep(0.8)
 
     if print_game:
         print("It's a tie!")
