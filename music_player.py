@@ -5,7 +5,6 @@ from tkinter import filedialog
 # Initialize the pygame
 pygame.init()
 
-
 # create the UI
 
 root = tk.Tk()
