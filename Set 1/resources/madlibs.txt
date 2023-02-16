@@ -1,0 +1,3 @@
+One <adjective> day, <person> decided to go for a walk in the <place>.
+While walking, <person> found a <adjective> <noun>. <person> picked it up
+and brought it home, but the <noun> turned out to be <adjective>!
